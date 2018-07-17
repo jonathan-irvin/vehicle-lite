@@ -81,3 +81,6 @@ typings/
 
 # Ignore the SQLite DB, rebuild every time
 database.sqlite
+
+# Ignore NanoSQL
+/db*
